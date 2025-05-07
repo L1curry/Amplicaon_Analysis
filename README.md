@@ -149,6 +149,6 @@ run01    SampleB    AGAGTTTGATCMTGGCTCAG    CGGTTACCTTGTTACGACTT    SampleB_R1.f
 ### Sample Data
 barcoding_corrected.txt    元数据     
 id.sample    样本ID(元数据的第二列)     
-1.fq.gz     正测序数据     
-2.fq.gz     反测序数据     
-sintax.zip    注释数据库
+1.fq.gz     正测序数据(文件过大，未上传，可留言获取)     
+2.fq.gz     反测序数据(文件过大，未上传，可留言获取)     
+sintax.zip    注释数据库(文件过大，未上传，可留言获取)
